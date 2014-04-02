@@ -33,6 +33,7 @@
    <integer name="config_lidOpenRotation">-1</integer>
    <integer name="config_deskDockKeepsScreenOn">0</integer>
    <integer name="config_lidNavigationAccessibility">1</integer>
+   <bool name="config_lidControlsSleep">true</bool>
    
     <!-- An Array of "[ConnectivityManager connectionType],
          [# simultaneous connection types]"  -->
