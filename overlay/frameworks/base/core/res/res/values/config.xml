@@ -92,4 +92,7 @@
 
     <!-- Enable lockscreen translucent decor -->
     <bool name="config_enableLockScreenTranslucentDecor">true</bool>
+
+    <!-- Maximum number of supported users -->
+    <integer name="config_multiuserMaximumUsers">8</integer>
 </resources>
